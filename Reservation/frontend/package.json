@@ -1,0 +1,33 @@
+{
+  "name": "restaurant-reservation-system",
+  "version": "1.0.0",
+  "description": "Tool for restaurants to manage reservations",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "animejs": "^3.2.2",
+    "bootstrap": "^5.3.3",
+    "font-awesome": "^4.7.0",
+    "next": "14.2.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-spring": "^9.7.3"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.2",
+    "pretier": "^0.0.1"
+  }
+}

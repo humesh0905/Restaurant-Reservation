@@ -1,0 +1,21 @@
+UX References:
+--------------
+https://phenomenonstudio.com/projects/tabela-a-management-system-for-restaurants/
+https://tableagent.com/reservation-system/
+
+Bootstrap:
+----------
+https://1manstartup.com/blogs/install-bootstrap-for-nextjs-app-router
+https://www.codeply.com/p/WGCqYEiPBg
+
+Font-awesome:
+-------------
+https://fontawesome.com/icons
+
+JSON-Server:
+------------
+https://www.freecodecamp.org/news/json-server-for-frontend-development/
+
+API References:
+---------------
+https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26

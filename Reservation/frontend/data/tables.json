@@ -1,0 +1,49 @@
+{
+  "tables": [
+    {
+      "id": "1",
+      "name": "TBL-1",
+      "capacity": "2",
+      "section": "Private",
+      "shape": "Round-Large"
+    },
+    {
+      "id": "2",
+      "name": "TBL-2",
+      "capacity": "2",
+      "section": "Private",
+      "shape": "Round-Large"
+    },
+    {
+      "id": "3",
+      "name": "TBL-3",
+      "capacity": "2",
+      "section": "Main",
+      "shape": "Round-Large"
+    },
+    {
+      "id": "4",
+      "name": "TBL-4",
+      "capacity": "2",
+      "section": "Private",
+      "shape": "Round-Large"
+    },
+    {
+      "id": "fcaf"
+    },
+    {
+      "id": "6224",
+      "name": "TBL-5",
+      "capacity": 5,
+      "section": "Main",
+      "shape": "Round -XL"
+    },
+    {
+      "id": "79a4",
+      "name": "TBL-5",
+      "capacity": 6,
+      "section": "Private",
+      "shape": "Round - Medium"
+    }
+  ]
+}
